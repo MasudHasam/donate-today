@@ -153,3 +153,23 @@ input {
 .name-and-amount {
     margin-left: 370px;
 }
+
+.subscribe-section {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.email-input-area {
+    text-align: center;
+    border: 0px solid goldenrod;
+    padding: 80px 10px;
+    background-color: rgb(138, 138, 115);
+    width: 950px;
+    border-radius: 5px;
+    margin-left: 170px;
+}
+
+.email-input {
+    padding: 7px;
+    border-radius: 5px;
+}
