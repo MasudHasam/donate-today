@@ -26,3 +26,76 @@ h1 {
     padding: 10px 20px;
     border-radius: 5px;
 }
+
+section {
+    margin-bottom: 100px;
+}
+
+.donate {
+    font-size: xx-large;
+}
+
+.donate-section {
+    text-align: center;
+}
+
+.color {
+    color: grey;
+}
+
+.donate-options {
+    display: flex;
+    margin-left: 425px;
+
+}
+
+.option-design {
+    background-color: rgba(128, 128, 128, 0.083);
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 25px 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#selected-option {
+    background-color: rgba(128, 128, 128, 0.083);
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 25px 15px;
+    border-radius: 5px;
+    text-align: center;
+    border: 2px solid rgba(255, 0, 0, 0.282);
+    background-color: rgba(255, 0, 0, 0.092);
+    color: rgba(255, 0, 0, 0.576);
+}
+
+#valuable-options {
+    background-color: rgba(128, 128, 128, 0.083);
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 25px 15px;
+    border-radius: 5px;
+    text-align: center;
+    color: grey;
+}
+
+.input-area {
+    text-align: center;
+
+}
+
+input {
+    border: none;
+    outline: none;
+    font-size: large;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.227);
+    width: 800px;
+    text-align: center;
+}
+
+.donate-button {
+    text-align: center;
+    margin-top: 30px;
+
+}
