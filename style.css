@@ -1,0 +1,28 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-section {
+    text-align: center;
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding: 200px;
+}
+
+h1 {
+    color: aqua;
+    font-size: 50px;
+}
+
+.header-p {
+    color: aquamarine;
+    margin-bottom: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
