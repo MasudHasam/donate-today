@@ -173,3 +173,20 @@ input {
     padding: 7px;
     border-radius: 5px;
 }
+
+#footer-section {
+    color: rgb(255, 34, 34);
+    font-size: xx-large;
+    margin-bottom: 10px;
+}
+
+.footer-area {
+    text-align: center;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+small {
+    color: white;
+}
